@@ -6,7 +6,7 @@ import icon from "../images/emoji.svg"
 import EmojiPicker from "emoji-picker-react";
 import Messages from "./Messages.jsx"
 
-const socket = io.connect('http://localhost:5000');
+const socket = io.connect('https://guestmessenger-server.onrender.com');
 
 const Chat = () => {
     const { search } = useLocation();
