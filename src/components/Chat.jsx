@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 import io from 'socket.io-client';
 import styles from "../styles/Chat.module.css"
-import icon from "../images/emoji.svg"
+import icon from "./images/emoji.svg"
 import EmojiPicker from "emoji-picker-react";
 import Messages from "./Messages.jsx"
 
