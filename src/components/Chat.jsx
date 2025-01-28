@@ -92,7 +92,7 @@ const Chat = () => {
                     )}
                 </div>
                 <div className={styles.button}>
-                    <input type="submit" onSubmit={handleSubmit} value="Send" />
+                    <input type="submit" onSubmit={handleSubmit} value="Отправить" />
                 </div>
             </form>
         </div>
