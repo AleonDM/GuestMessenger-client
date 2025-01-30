@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Guest",
+  "name": "Мессенджер для переговоров во временных чатах.",
   "icons": [
     {
       "src": "favicon.ico",
